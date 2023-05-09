@@ -1,8 +1,8 @@
 # Fluter UI Challenges
 
-A new Flutter project.
+A Flutter UI Challenges
 
-# Week 1 - Flip Credit Card
+# Flip Credit Card
 
 Credit card UI with flip animation.
 
