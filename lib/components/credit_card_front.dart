@@ -115,7 +115,7 @@ class _CardHolderWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Text(name);
+    return Text(name.toUpperCase());
   }
 }
 

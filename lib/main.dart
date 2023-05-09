@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flip Credit Card',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
           seedColor: Colors.teal,
@@ -40,8 +41,8 @@ class _MyHomePageState extends State<MyHomePage> {
     final expiryDate = DateTime(today.year + 4, today.month, today.day);
     final cardInfo = CreditCardInfo(
       cardNumber: 9720901265879102,
-      cardHolder: 'HUYNH MY TUAN',
-      bankName: 'ASIA BANK',
+      cardHolder: 'Alex Smith',
+      bankName: 'ASIA Bank',
       expiryDate: expiryDate,
       validFrom: validFrom,
       cvvCode: 123,

@@ -1,16 +1,20 @@
-# ui_challenge
+# Fluter UI Challenges
 
 A new Flutter project.
 
-## Getting Started
+# Week 1 - Flip Credit Card
 
-This project is a starting point for a Flutter application.
+Credit card UI with flip animation.
 
-A few resources to get you started if this is your first Flutter project:
+- Assets:
+  1. Chip Image [Download](./assets/images/chip.png)
+  2. Visa Logo [Download](./assets/images/visa_logo.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Screenshots
+<div style="text-align:center">
+<img src="./previews/flip_credit_card_preview.gif" alt= "Preview" width="500" align="center"></div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Created & Maintained By
+
+[Huynh My Tuan](https://github.com/huynhmytuan)
